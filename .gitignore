@@ -1,0 +1,6 @@
+# Source materials and local working files
+tmp/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
